@@ -12,7 +12,7 @@
   <a href="https://github.com/Felpz1">
     <img src="https://flagicons.lipis.dev/flags/4x3/br.svg" alt="Brazilian Portuguese" width="50" height="50">
   </a>
-  <a href="">
+  <a href="https://github.com/Felpz1/Felpz1/blob/main/README-ingles.md">
     <img src="https://flagicons.lipis.dev/flags/4x3/us.svg" alt="English" width="50" height="50">
   </a>
 </p>
