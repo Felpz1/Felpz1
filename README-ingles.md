@@ -18,13 +18,14 @@
 </p>
 
 Hi! 👋 My name is Felipe De Lima, I'm passionate about programming, learning, and solving complex problems. I'm relentlessly pursuing my goals, expanding my knowledge in software development. I'm a beginner and always looking to learn more! <br>
-if projects_ready == False: print("🚧 Loading amazing things... Coming soon!")
+
 <div align="center">
   
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Felpz1&layout=donut&theme=radical&langs_count=5&hide=css,html,java,python,nsis)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
   
-</div> 
+</div> <br><br>
+if projects_ready == False: print("🚧 Loading amazing things... Coming soon!")
 
 --- 
 
