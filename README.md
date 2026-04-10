@@ -17,7 +17,10 @@
   </a>
 </p>
 
-Olá! 👋 Me chamo Felipe De Lima, sou apaixonado por programação, aprender e resolver problemas complexos. Estou incessantemente perseguindo meus objetivos, expandindo meu conhecimento em desenvolvimento de software, sou iniciante e busco sempre aprender mais!
+Olá! 👋 Me chamo Felipe De Lima, sou apaixonado por programação, aprender e resolver problemas complexos. Estou incessantemente perseguindo meus objetivos, expandindo meu conhecimento em desenvolvimento de software, sou iniciante e busco sempre aprender mais! <br>
+if projects_ready == False:
+    print("🚧 Loading amazing things... Coming soon!")
+
 <div align="center">
   
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Felpz1&layout=donut&theme=radical&langs_count=5&hide=css,html,java,python,nsis)](https://github.com/Pranesh-2005/github-readme-stats-fast)
