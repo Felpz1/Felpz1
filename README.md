@@ -22,7 +22,7 @@ Olá! 👋 Me chamo Felipe De Lima, sou apaixonado por programação, aprender e
 
 <div align="center">
   
-[![Top Langs]([![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Felpz1-2005)](https://github.com/pranesh-2005/github-readme-stats-fast))
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
   
 </div> <br><br>
