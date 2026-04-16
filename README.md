@@ -22,7 +22,7 @@ Olá! 👋 Me chamo Felipe De Lima, sou apaixonado por programação, aprender e
 
 <div align="center">
   
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Felpz1&layout=donut&theme=radical&langs_count=5&hide=css,html,java,python,nsis)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+[![Top Langs]([![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Felpz1-2005)](https://github.com/pranesh-2005/github-readme-stats-fast))
 
   
 </div> <br><br>
